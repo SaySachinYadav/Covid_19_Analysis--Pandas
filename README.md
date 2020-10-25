@@ -1,1 +1,3 @@
 # Covid_19
+
+In this project, you will see how to preprocess and merge datasets to calculate needed measures and prepare them for an Analysis. In this project, I'am going to work with the COVID19 dataset, published by Covid India Organisation, which consists of the data related to the cumulative number of confirmed cases, per day, in each Country. Also, I have another dataset consist of various life factors, scored by the people living in each country around the globe.  We are going to merge these two datasets to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
